@@ -19,7 +19,7 @@ ContactKeeper is a contact management system that enables users to create accoun
 ### Installation
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/ContactKeeper.git
+    git clone https://github.com/Nija89/ContactKeeper.git
     ```
 
 2. Navigate into the project directory:
